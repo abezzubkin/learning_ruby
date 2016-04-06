@@ -15,5 +15,5 @@ size.times do |row|
 		star_count = (size - 1 - row) * 2 + 1
 		print space * space_count
 	end
-p "*" * star_count
+p '*' * star_count
 end

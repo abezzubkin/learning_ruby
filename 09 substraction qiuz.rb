@@ -18,5 +18,5 @@ if sum == users_answer
    else 
     puts "Your math idiot! The answer is #{sum}"
 end
-puts "Your scrore is: #{count}/#{times_count}"
+puts "Your score is: #{count}/#{times_count}"
 end
