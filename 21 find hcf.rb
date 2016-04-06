@@ -1,6 +1,6 @@
 print "Enter your first number: "
 input1 = gets.chomp.to_i
-
+puts 'Test added via github web'
 array1 = Array (1..input1)
 
 dividible1 = []
