@@ -1,13 +1,13 @@
-count = 0 
-10.times do 
-	count = count + 1
-	stars = '*' * count
-	puts stars
+count = 0
+10.times do
+  count = count + 1
+  stars = '*' * count
+  puts stars
 end
 
 count = 10
 10.times do
-	count = count - 1
-	stars = '*' * count
-	puts stars
+  count = count - 1
+  stars = '*' * count
+  puts stars
 end
